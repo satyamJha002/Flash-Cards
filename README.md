@@ -3,7 +3,7 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 # Project URL
--[project/url](https://roadmap.sh/projects/flash-cards)
+-[https://github.com/satyamJha002/Flash-Cards](https://github.com/satyamJha002/Flash-Cards)
 
 Currently, two official plugins are available:
 
